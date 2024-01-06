@@ -72,7 +72,7 @@
 .image-frame {
     width: 380px;
     height: 380px;
-    background-image: url(./images/profile-image.png);
+    background-image: url("images/profile-image.png");
     background-position: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
@@ -785,7 +785,7 @@
 
 .contact-image {
     background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
-        url(./images/Contact-image-1.jpg);
+        url("images/Contact-image-1.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -879,7 +879,7 @@
 
 .section-7 {
     padding: 170px 0px 170px 0px;
-    background-image: url(./images/footer-img.jpg);
+    background-image: url("images/footer-img.jpg");
     background-position: top;
     background-size: cover;
     position: relative;
